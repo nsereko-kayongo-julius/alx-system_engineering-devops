@@ -1,9 +1,0 @@
-#!/bin/bash
-
-#list Get the current working directory
-cwd=$(ls)
-
-
-echo " $cwd"
-
-
