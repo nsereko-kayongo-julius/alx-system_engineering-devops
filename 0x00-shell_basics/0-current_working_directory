@@ -1,8 +1,4 @@
 #!/bin/bash
 
-# Get the current working directory
-cwd=$(pwd)
-
-# Print the absolute path name of the current working directory
-echo "The absolute path name of the current working directory is: $cwd"
+echo " $(pwd)"
 
